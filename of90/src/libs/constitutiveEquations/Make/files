@@ -7,6 +7,9 @@ constitutiveEqs/constitutiveEq/newConstitutiveEq.C
  constitutiveEqs/Oldroyd-B/Oldroyd-BLog/Oldroyd_BLog.C
  constitutiveEqs/Oldroyd-B/Oldroyd-BSqrt/Oldroyd_BSqrt.C
  constitutiveEqs/Oldroyd-B/Oldroyd-BRootk/Oldroyd_BRootk.C
+
+ constitutiveEqs/Oldroyd-A/Oldroyd_A.C
+ constitutiveEqs/Oldroyd-A/Oldroyd-ALog/Oldroyd_ALog.C
  
  constitutiveEqs/Giesekus/Giesekus.C
  constitutiveEqs/Giesekus/GiesekusLog/GiesekusLog.C
